@@ -15,5 +15,3 @@ Dependencies used:
 - devtools
 
 PostgreSQL was used as DBMS. Front-end part was designed with the help of bootstrap.
-
-![image](https://user-images.githubusercontent.com/102594655/168591128-f97dac72-441e-4fd9-b7e2-b67e12d514ee.png)
